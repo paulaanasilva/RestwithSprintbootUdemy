@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: anapaula.silva
+Build-Jdk: 15.0.1
+Implementation-Title: rest-with-springboot-udemyana
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.erudio
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/rest-with-springboot-udemyana
+Created-By: Maven Integration for Eclipse
+
